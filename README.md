@@ -1,7 +1,7 @@
 scala-heaptests
 ===============
 
-scala stuff
+Assignment 1
 from
 Principles of Reactive Programming
 by Erik Meijer, Martin Odersky, Roland Kuhn
